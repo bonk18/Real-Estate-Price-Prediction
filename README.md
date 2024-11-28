@@ -10,9 +10,6 @@ This project aims to predict house prices using a combination of data preprocess
 5. [Key Steps in Data Preprocessing](#key-steps-in-data-preprocessing)
 6. [Machine Learning Models Used](#machine-learning-models-used)
 7. [Results](#results)
-8. [How to Run](#how-to-run)
-9. [Future Enhancements](#future-enhancements)
-
 ---
 
 ## Project Overview
